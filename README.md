@@ -88,6 +88,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Fauna](https://github.com/fauna/write-with-fauna) - Up to $700 per piece
   > Content focused on technical education around serverless development and FaunaDB.
 
+- [Gladia](https://gladia.notion.site/Gladia-Tech-Writing-Program-89ccfc4047214062a2c0616ddd374e45?pvs=4?utm_source=GitHub&utm_medium=Public_repo&utm_campaign=Writing_program) - $100 per piece
+  > Tutorials and how-to guides on speech-to-text, NLP, video recording, and more. 
+
 - [Hashnode Web3 Blog](https://web3.hashnode.com/contribute-to-the-web3-blog) - $250-$350 per article
   > Technical content and tutorials related to Web3.
 
